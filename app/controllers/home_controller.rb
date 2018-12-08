@@ -1,7 +1,16 @@
 class HomeController < ApplicationController
-def index
-end
+    def index
+    end
 
-def blog
-end
+    def info
+    end
+
+    def gallery
+    end
+
+    def journal
+    end
+
+    def film
+    end
 end
